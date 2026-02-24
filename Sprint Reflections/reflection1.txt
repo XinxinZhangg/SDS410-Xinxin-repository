@@ -1,0 +1,26 @@
+Sprint Relection 1
+Date Feb 23, 2026
+
+
+### How did you feel about your team dynamics?
+
+This sprint, the team dynamics were the biggest challenge for me personally. 
+I’ve worked in groups before, but never with a team this large—six people in total. It’s a different experience entirely. Coordinating schedules, communication styles, and making sure everyone’s voice is heard is much more complex than in a smaller group (I believed). My adjustment was made harder because I got sick and missed a class last week. Even though it was only one class, it was acutally severall day off for finishing my tasks. I came back feeling a step behind and a little bit disconnected from our project. There’s a certain rhythm a team develops in those early meetings, and missing that made me feel like I was playing catch-up. 
+I have to give credit because of our project manager, Kathleen, has been fantastic. Her frequent check-ins and clear communication have been a progress, ensuring that even when I felt out of sync, I could get the information I needed to stay on track.
+
+### What did you learn?
+
+I learned that even when the team hasn't started heavy coding yet, there is still a huge amount of valuable work to be done in the preparation phase. 
+This sprint was mostly about laying the groundwork through communication with our sponsor and understanding the project scope. I took the initiative to do a deep dive into the background material. I read through the documentation and wrote a tutorial and a reflection for my teammates. My goal was to break down the complex information about border policies and the underlying concepts of our project, making it easier for everyone to get up to speed. On a technical level, I used this time to build my own toolkit. I learned a lot about how to better use the terminal, Git, and GitHub. I also successfully downloaded and configured all the necessary packages for HTML and SQL that we will need for future coding. It was a win to get everything set up without any major issues.
+
+### What things are you going to do differently next sprint?
+
+I have two clear goals for how I want to work differently in Sprint 2. 
+First, on a technical level, I think I’m ready to dive into the database. My main objective for the next sprint is to start connecting and querying our database to see how we can make it work for our project’s needs. 
+Second, and more importantly, I need to change how the way I manage my own tasks. I tend to look at a big goal and try to tackle it all at once, which can be overwhelming. This sprint, my task of researching and writing the tutorial was a large chunk of work. Next time, I’m going to cut my larger assignments down into much smaller, more manageable mini-tasks. This will make my progress feel more tangible and easier to track. I also need to become better at using our group’s task tracker and update it more often to keep everyone in the loop.
+
+### How did your retrospective go?
+
+Overall, I felt fine during the retrospective. Because we are still in the early stages, the majority of Sprint 1 was about preparation rather than execution, so there wasn't a lot of code to review or technical debt to discuss. 
+The conversation was more focused on our communication patterns and making sure we were aligned with the sponsor's expectations. I was able to be honest about feeling a little disconnected due to my absence, but I also felt good about the progress I made on my own to catch up. The retrospective reinforced that even though we haven't really "started" building yet, we have made significant progress as a group in understanding the problem we are trying to solve.
+
