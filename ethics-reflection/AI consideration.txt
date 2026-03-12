@@ -1,0 +1,35 @@
+March 12th AI ethics Reflection
+Xinxin Zhang
+
+I read that piece on the AI supply chain for our discussion, and honestly, it kind of messed with my head a bit. How we usually talk about AI at work—models, training data, inference, all that technical stuff? It's always about the architecture, the loss curves, the benchmarks. 
+We geek out over transformer models and fine-tuning strategies, and we treat "automation" as this inevitable, almost magical outcome of better algorithms. But this article flipped the script completely and made me realize we've been ignoring the biggest part of the picture.
+
+The thing that really got me was how the author frames AI not as this automated technological marvel, but as a massive human infrastructure project. 
+There are actual people—mostly in the Global South—doing the grinding work of labeling data, moderating content, and sometimes even secretly running the systems we think are fully automated which is called it "fauxtomation". 
+It comes to me with how many times have I demoed something and talked about how "smart" it is, not realizing there might be someone on the other side of the world making it look that way? It makes myself question everything we think we know about what's "real AI" versus what's just really well-hidden human labor.
+
+The Kenya example stuck with me and I honestly haven't been able to shake it. Workers getting paid less than $2 an hour to look at some of the worst content on the internet so our chatbots don't spit out garbage. 
+We're talking about people having to watch beheadings, child abuse material, the absolute darkest corners of humanity, all so they can flag it and make sure the model doesn't learn from it. And they get zero credit, zero protections, and basically zero visibility. 
+No mental health support, no hazard pay, no recognition that what they're doing is psychologically damaging. Meanwhile, the companies benefiting from their labor are worth billions and talk about how they're "democratizing AI" or "building for good." The cognitive dissonance is staggering.
+
+What I can't stop thinking about is how different this supply chain is compared to something like clothing. We all know about garment factory conditions because activists spent decades making that visible. You can't buy a t-shirt without at least having some awareness that it probably came from a sweatshop somewhere. 
+But AI's supply chain is this intentional black box. Companies don't want us to know how much human sweat is actually powering the "automation" they're selling. The marketing depends on us believing the machines are doing it themselves. And because the work is digital and distributed, it's so much easier to hide. 
+There's no factory to photograph, no building to picket. These workers are isolated, often working from home, often in countries with weak labor laws, and they have no collective power.
+
+The question from our discussion really hit and supprise is do we even begin to advocate for these workers? What does regulation look like when the supply chain is deliberately murky? 
+Is it about requiring companies to disclose their data labor practices the way they have to disclose financial information? Should there be an international labor standard for annotation work, with minimum pay and mental health requirements? 
+And here's the harder question: what parts of the supply chain are actually impossible to make transparent because of the nature of AI, versus what parts companies are choosing to hide? Because some opacity might be inherent—if you're using reinforcement learning from human feedback, the loop genuinely involves humans shaping model behavior over time. 
+
+I also want to dig deeper into whether any organizing is happening. Are there data worker unions forming? 
+I've heard whispers about some annotation platforms trying to unionize, but nothing substantial. Are there advocacy groups pushing for transparency the way labor rights groups did for Nike back in the day? 
+The article mentioned the garment industry as a model, but I want to know what that actually looks like in practice for tech. Are there nonprofits focused specifically on this? Are any academics doing the work of mapping these supply chains and naming names? 
+
+This also connects to that other reading about "the uncontroversial thingness of AI." We treat "AI" as this single, stable thing, and that obscures exactly these kinds of supply chain questions. 
+If we instead talked about "a content moderation system trained by underpaid Kenyan workers on data labeled by Filipino contractors," it sounds very different than "AI safety research." The language we use matters. 
+We've been trained to talk about models and systems in this abstract, technical way, and that abstraction makes it easier to ignore the human cost.
+
+Honestly, this changed how I think about the tools we build. Every time we talk about scaling AI or improving model performance, there's a human cost we're not accounting for.
+ When we celebrate how much faster we can train models now, we're not celebrating the thousands of hours of human annotation that made those training sets possible. 
+ When we talk about making models more "aligned," we're not talking about the people who had to look at the worst content imaginable to teach the model what not to say.
+I can't unsee that now. And I'm not sure we're asking the right questions as a field or in our own work. Should we be including supply chain audits in our model cards? Should we be demanding vendors disclose their labor practices before we use their APIs? 
+Should we be pushing for industry standards around data worker pay and conditions? Because right now, we're all just kind of pretending the models train themselves, and that's convenient for everyone except the people actually doing the work.
