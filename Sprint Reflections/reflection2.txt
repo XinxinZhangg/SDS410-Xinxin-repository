@@ -1,0 +1,29 @@
+Sprint Relection 2
+Date March 23, 2026
+
+
+### How did you feel about your team dynamics?
+
+In this sprint, I felt that our team dynamics improved significantly compared to the initial stage of the project. In Sprint 1, much of our energy was spent on understanding the project scope and getting familiar with each other’s working styles. By Sprint 2, however, the team had clearly moved beyond that exploratory phase. Everyone had a much clearer understanding of their work, and this helped the entire group function more efficiently.
+I felt more comfortable contributing and communicating with my teammates, and the overall atmosphere was supportive and collaborative. Compared to earlier stages, there was less uncertainty and more direction, which made it easier to stay focused and productive. I also noticed that team members were more proactive in taking ownership of their tasks, which strengthened our coordination as a group.
+
+
+### What did you learn?
+
+This sprint, I mainly worked on modifying our website and adding icons to improve its design and usability. Since I had no prior experience with web development, this was a completely new area for me. Through this process, I learned how front end code is structured and how different components of a webpage interact with each other.
+On a technical level, I learned how to install and use icon packages, as well as how to integrate them into our existing code. I also gained a better understanding of how HTML and related tools function in practice. In addition, I improved my ability to use GitHub, especially when it comes to merging changes and managing updates without causing conflicts.
+Overall, this sprint helped me build foundational skills in web development and increased my confidence in working with unfamiliar technologies.
+
+
+### What things are you going to do differently next sprint?
+
+For the next sprint, I plan to focus on both technical improvement and collaboration. Technically, I want to continue working on more advanced web development tasks and refine the design and functionality of our website. One of the main challenges I currently face is that the icon packages I have access to are limited. This means I will need to explore additional external resources and evaluate their compatibility with our project.
+At the same time, I also need to consider issues such as file format conversion and potential financial costs associated with certain resources. These are problems that were not fully resolved in this sprint and will require more careful planning moving forward.
+In terms of teamwork, I want to communicate more frequently with my teammates, as well as with Nikko and Daimy. In Sprint 2, I often worked independently on coding tasks, but I realize that more collaboration could lead to better and more efficient solutions. Actively seeking feedback and discussing ideas will be an important improvement for me.
+
+
+
+### How did your retrospective go?
+
+I felt positive about our retrospective this sprint. As a team, we were able to reflect on our progress and recognize that we have moved into a more productive and focused stage of the project. The discussion highlighted that everyone now has a clearer sense of direction and responsibility.
+Personally, I found it valuable to think about both my technical progress and the challenges I encountered. The retrospective helped me identify areas where I need to improve, especially in terms of communication and collaboration. It also reinforced the idea that our team is developing a strong working dynamic, which gives me confidence for the next sprint.
